@@ -1,0 +1,11 @@
+/* @font-face*/
+
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Style_Script";
+  src: url(../fonts/Style_Script/StyleScript-Regular.ttf);
+}
